@@ -1,0 +1,35 @@
+# Core Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# LangGraph & LangChain
+langgraph==0.6.11
+langchain==0.3.25
+langchain-core>=0.3.75
+langchain-openai==0.3.16
+
+# Neo4j
+neo4j==5.27.0
+
+# Redis
+redis==5.2.1
+
+# MySQL
+sqlalchemy==2.0.36
+aiomysql==0.2.0
+pymysql==1.1.1
+
+# Embedding
+sentence-transformers==3.3.1
+
+# File parsing
+pdfplumber==0.11.7
+python-docx==1.2.0
+openpyxl==3.1.5
+
+# Auth
+PyJWT==2.12.1
+python-multipart==0.0.20
